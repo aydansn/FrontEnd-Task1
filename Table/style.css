@@ -1,0 +1,22 @@
+th , td{
+    border:1px solid black;
+}
+th{
+    background-color:green;
+    color: aliceblue;
+    
+}
+td{
+    text-align: end;
+}
+
+.first{
+    background-color: rgb(186, 255, 177);
+}
+
+.next{
+    background-color:rgb(232, 255, 225);
+}
+.dd{
+    text-align: start;
+}

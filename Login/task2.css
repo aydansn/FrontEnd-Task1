@@ -1,0 +1,58 @@
+.main{
+    text-align: left;
+    width: 290px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.main-header{
+    border-bottom: 1px solid gray;
+}
+input{
+    width: 95%;
+    padding: 10px 4px;
+
+}
+
+input:hover{
+    border-color: rgb(93, 255, 93);
+}
+
+.left{
+    text-align: start;
+    font-weight: 400;
+    
+}
+
+.firstcenter{
+    text-align: center;
+}
+
+a{
+ text-decoration: none;
+ font-weight: 500;
+ color: blue;
+}
+
+
+.forpadding{
+    padding-bottom: 10px;
+}
+
+button{
+    width: 90%;
+    text-align: center;
+    background-color: green;
+    padding: 10px;
+    color: white;
+    border:none;
+}
+
+.last{
+    display: flex;
+    
+}
+
+.last input{
+    
+    width: auto;
+}
