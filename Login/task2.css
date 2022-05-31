@@ -45,6 +45,7 @@ button{
     padding: 10px;
     color: white;
     border:none;
+    margin-top: 5px;
 }
 
 .last{
@@ -56,3 +57,11 @@ button{
     
     width: auto;
 }
+
+
+h4{
+    margin: 10px 0px;
+}
+
+.last-right{
+    padding-top: 10px;
